@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135762822453",
+    "project_id": "projetoumidade-5d4b7",
+    "storage_bucket": "projetoumidade-5d4b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135762822453:android:8b91d428e7257fb464387c",
+        "android_client_info": {
+          "package_name": "com.example.umidade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE5zHsWuMaBFHKYdVI_WZxeS11_1gV-8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
